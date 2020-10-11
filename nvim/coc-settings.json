@@ -1,0 +1,6 @@
+{
+  "javascript.suggestionActions.enabled": false,
+  "emmet.includeLanguages": {
+    "vue-html": "html"
+  }
+}
